@@ -39,9 +39,9 @@ Key visuals are in place, but additional metrics, layout improvements, and inter
 ---
 
 ## 📂 Project Files
-- `83c782b1-4cf4-43bb-8a22-d870bd18b157.png` – Dashboard image preview
+- `Heart%20Disease%20Dashboard.png` – Dashboard image preview
 - `README.md` – Project description
-- *(Coming soon)* `.pbix` Power BI file with source visuals and data
+- *(Coming soon)* `.pbix` Modified Power BI file with source visuals and data
 
 ---
 
